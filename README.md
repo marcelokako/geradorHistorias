@@ -39,16 +39,17 @@ Este é um aplicativo desenvolvido em **Streamlit** para criar o início de hist
 - Streamlit (instale com: `pip install streamlit`)
 
 ### Rodando o aplicativo
-    1. Clone este repositório:
+1. Clone este repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/gerador-historias.git
 ```
-    2. Instale as dependências:
+2. Instale as dependências:
 
 ```bash
 pip install -r requirements.txt
 ```
+
 3. Execute o Streamlit:
 
 ```bash
